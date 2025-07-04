@@ -3,3 +3,5 @@
 ---
 
 This is some text in the testnote.
+
+and a link to a page [[pages/About Me\|About Me]]
