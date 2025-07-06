@@ -7,6 +7,7 @@ My profile Chart
 ![My-HD-Chart.png](/img/user/assets/My-HD-Chart.png)
 ![[My-HD-Chart.pdf]]
 
-![Managing acute asthma in clinical settings - Adults] (https://www.dropbox.com/scl/fi/u5k7efpncs2bscfmpc6wi/My-HD-Chart.pdf)
+![PDF Version] (https://www.dropbox.com/scl/fi/u5k7efpncs2bscfmpc6wi/My-HD-Chart.pdf)
+
 
 
