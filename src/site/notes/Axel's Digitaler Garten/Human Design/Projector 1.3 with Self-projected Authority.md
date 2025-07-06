@@ -4,5 +4,5 @@
 
 My profile Chart
 
-
+![My-HD-Chart.png](/img/user/My-HD-Chart.png)
 ![[My-HD-Chart.pdf]]
