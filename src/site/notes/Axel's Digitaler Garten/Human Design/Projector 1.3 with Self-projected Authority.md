@@ -5,7 +5,7 @@
 My profile Chart
 
 ![My-HD-Chart.png](/img/user/assets/My-HD-Chart.png)
-![PDF Version] (https://www.dropbox.com/scl/fi/u5k7efpncs2bscfmpc6wi/My-HD-Chart.pdf)
+![PDF Version] (https://drive.proton.me/urls/8TQTWZ4RGM#zkpAon4YSGEk)
 
 
 
