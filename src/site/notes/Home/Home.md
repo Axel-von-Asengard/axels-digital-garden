@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","title":"Home","tags":["gardenEntry"],"created":"2025-02-11T03:43:46.002+01:00"}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","title":"Home","pinned":"yes","tags":["gardenEntry"],"created":"2025-02-11T03:43:46.002+01:00"}
 ---
 
 - Mister Chad schrieb in https://mister-chad.com/creativity/books+on+creativity/Steal+Like+An+Artist viel interessantes über das Stehlen von Ideen und macht sogar klar, was der Unterschied zu Plagiarismus ist. Ich finde das entspricht genau meinen Ideen. Also kann ich wirklich ruhigen Gewissens mit dem Material anderer arbeiten
