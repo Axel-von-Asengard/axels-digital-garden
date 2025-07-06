@@ -4,5 +4,7 @@
 
 My profile Chart
 
-![My-HD-Chart.png](/img/user/My-HD-Chart.png)
+![My-HD-Chart.png](/img/user/assets/My-HD-Chart.png)
 ![[My-HD-Chart.pdf]]
+
+![Managing acute asthma in clinical settings - Adults] (https://d30b7srod7pe7m.cloudfront.net/uploads/2020/08/Figure_Managing-acute-asthma-in-adults_web.pdf)
