@@ -4,7 +4,5 @@
 
 My profile
 
-- file:///C:/Users/HP/Dropbox/HDS/My-HD-Chart.pdf
-- <element src="file:///C:/Users/HP/Dropbox/HDS/My-HD-Chart.pdf"></element>
 - ![https://photos.app.goo.gl/iY251AQvhqhsTbPK8]
-- 
+ 
