@@ -3,4 +3,6 @@
 ---
 
 My profile Chart
-![[https://github.com/Axel-von-Asengard/axels-digital-garden/blob/main/My-HD-Chart.png\|https://github.com/Axel-von-Asengard/axels-digital-garden/blob/main/My-HD-Chart.png]]
+
+
+![[My-HD-Chart.pdf]]
