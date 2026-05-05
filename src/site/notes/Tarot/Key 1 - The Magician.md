@@ -3,7 +3,6 @@
 ---
 
 
-
-- [[pages/Tarot\|Tarot]]
+- [[Tarot/Tarot\|Tarot]]
 - erstmal nur Text ohne Beschreibung für die Vercel-Seite
-- 
+-
